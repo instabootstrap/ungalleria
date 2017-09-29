@@ -1,0 +1,19 @@
+#photo-search-input {
+  background: #f1f1f1;
+  border: 1px solid transparent; }
+
+.photos {
+  background: #f7f7f7;
+  padding: 3rem 0; }
+
+.navbar {
+  border-bottom: 1px solid #e7e7e7; }
+
+.jumbotron {
+  margin-bottom: 0; }
+
+.photo-item {
+  margin-bottom: 30px; }
+
+.nav-link.active {
+  color: #007bff; }
